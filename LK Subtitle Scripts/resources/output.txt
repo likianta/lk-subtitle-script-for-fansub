@@ -1,0 +1,6 @@
+version=1.7.3;
+version_env="develop";
+allow_customed=true;
+file=new File($.fileName);
+path=file.path;
+path=path+"/LK Subtitle Scripts/LK字幕导入工具.jsxbin"

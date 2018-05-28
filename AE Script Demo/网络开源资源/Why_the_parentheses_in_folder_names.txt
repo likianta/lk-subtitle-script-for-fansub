@@ -1,0 +1,1 @@
+Files located in a folder whose name is in parentheses will not be loaded by default into the File > Scripts menu.
