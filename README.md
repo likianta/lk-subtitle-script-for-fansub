@@ -13,9 +13,9 @@ What you need to do is just:
 
 ## Screenshots
 
-![Generator](http://t.cn/R1cAuuW "Generator")
+![Generator](http://imgsrc.baidu.com/forum/w%3D580/sign=7f029ae8164c510faec4e21250592528/22576799a9014c0896406c85067b02087bf4f408.jpg "Generator")
 
-![Import](http://t.cn/R1cAca5 "Import & Generate")
+![Import](http://imgsrc.baidu.com/forum/w%3D580/sign=c70b0e1e77ec54e741ec1a1689389bfd/128a082a6059252d321e9e24389b033b5bb5b97e.jpg "Import & Generate")
 
 ## Setup
 
@@ -24,8 +24,7 @@ What you need to do is just:
     2. LK Subtitle Script for Fansub + version code.jsxbin
     3. LK Subtitle Script Help.txt
 2. Install the script by placing them into the following path:<br>`C:\Program Files\Adobe\Adobe After Effects CC 2017\Support Files\Scripts\ScriptUI Panels\`
-3. 
-Once you restart After Effects, you'll find the script at `Window` > `LK Subtitle Script for Fansub + version code`.
+3. Once you restart After Effects, you'll find the script at `Window` > `LK Subtitle Script for Fansub + version code`.
 
 ## How To Use?
 
